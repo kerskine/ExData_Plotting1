@@ -41,7 +41,7 @@ web site</a>:
 
 ## Loading the data
 
-The data is loaded all at once using fread and then the two day period of interest is selected. There's a conditional statement that looks for the tidy dataset "hosuepwr" in your working environment first so that you don't have to re-run the construction of it every time you run the subsequent plots. 
+The data is loaded all at once using fread and then the two day period of interest is selected. There's a conditional statement that looks for the tidy dataset "housepwr" in your working environment first so that you don't have to re-run the construction of it every time you run the subsequent plots. 
 
 ## Making Plots
 
